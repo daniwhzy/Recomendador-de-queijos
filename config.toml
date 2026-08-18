@@ -1,0 +1,8 @@
+[theme]
+primaryColor = "#FF8C00"
+backgroundColor = "#FAFAFA"
+secondaryBackgroundColor = "#FFF3E0"
+textColor = "#1F1F1F"
+font = "sans-serif"
+gatherUsageStatus = false
+toolbarMode = "minimal"
